@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syncoregames.pages.dev/sitemap.xml
